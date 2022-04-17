@@ -13,6 +13,11 @@ In this project, based on the google sheet data, the mail is sent to the recipie
 - [Google Oauth Client Java6](https://jar-download.com/artifacts/com.google.oauth-client/google-oauth-client-java6)
 - [Javax Mail API](https://jar-download.com/artifacts/com.sun.mail/javax.mail)
 
+## Demo
+The below image shows the output of the Mail received on the recipient's inbox.
+
+![mail_output](https://github.com/CHANDRASEKAR98/google-sheet-mail-project/blob/main/images/mail_output.JPG)
+
 ## Road Map
 1. Creating a Google Account
 2. Enabling a Google API Service
@@ -82,15 +87,19 @@ Let's say if someone in your organization has birthday today (Let's assume that 
 
 Refer to the below image for the Google Sheet data.
 
-![]()
+![google_sheet_data](https://github.com/CHANDRASEKAR98/google-sheet-mail-project/blob/main/images/google_sheet_data.JPG)
 
 Now Let's run the Java Program and see if the mail is sent to the person1.
+
+Refer the below image for the Eclipse output.
+
+![eclipse_output](https://github.com/CHANDRASEKAR98/google-sheet-mail-project/blob/main/images/eclipse_output.JPG)
 
 Yeah!! you did it. The mail has been successfully sent to the person1's mail address. Hope he'll be very happy on receiving the birthday email on his inbox.
 
 Refer the below image for the mail output.
 
-![]()
+![mail_output](https://github.com/CHANDRASEKAR98/google-sheet-mail-project/blob/main/images/mail_output.JPG)
 
 ## Acknowledgement
 - [Sending Email in Java](https://www.baeldung.com/java-email)
