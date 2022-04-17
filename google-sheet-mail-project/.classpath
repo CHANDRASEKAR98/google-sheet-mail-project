@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/Javax Mail/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/Javax Mail/javax.mail-1.6.2.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files client/checker-qual-3.12.0.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files client/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files client/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files client/error_prone_annotations-2.11.0.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files client/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files client/google-api-client-1.33.4.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files client/google-http-client-1.41.5.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files client/google-http-client-apache-v2-1.41.5.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files client/google-http-client-gson-1.41.5.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files client/google-oauth-client-1.33.1.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files client/google-oauth-client-jetty-1.33.2.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files client/grpc-context-1.27.2.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files client/gson-2.9.0.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files client/guava-31.1-jre.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files client/httpclient-4.5.13.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files client/httpcore-4.4.15.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files client/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files client/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files client/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files client/opencensus-api-0.31.0.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files client/opencensus-contrib-http-util-0.31.0.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files java6/checker-compat-qual-2.5.5.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files java6/checker-qual-3.12.0.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files java6/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files java6/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files java6/error_prone_annotations-2.7.1.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files java6/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files java6/google-http-client-1.41.2.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files java6/google-oauth-client-1.33.1.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files java6/google-oauth-client-java6-1.33.1.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files java6/grpc-context-1.27.2.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files java6/guava-31.0-android.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files java6/httpclient-4.5.13.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files java6/httpcore-4.4.15.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files java6/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files java6/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files java6/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files java6/opencensus-api-0.30.0.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files java6/opencensus-contrib-http-util-0.30.0.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files serives/checker-qual-3.12.0.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files serives/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files serives/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files serives/error_prone_annotations-2.7.1.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files serives/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files serives/google-api-client-1.33.1.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files serives/google-api-services-sheets-v4-rev20220322-1.32.1.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files serives/google-http-client-1.41.1.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files serives/google-http-client-apache-v2-1.41.1.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files serives/google-http-client-gson-1.41.1.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files serives/google-oauth-client-1.33.0.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files serives/grpc-context-1.27.2.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files serives/gson-2.8.9.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files serives/guava-31.0.1-jre.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files serives/httpclient-4.5.13.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files serives/httpcore-4.4.15.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files serives/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files serives/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files serives/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files serives/opencensus-api-0.30.0.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/jar_files serives/opencensus-contrib-http-util-0.30.0.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/google-api-client-1.33.4.jar"/>
+	<classpathentry kind="lib" path="F:/education/project data/Projects in java/google-oauth-client-jetty-1.33.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
